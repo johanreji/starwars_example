@@ -1,0 +1,25 @@
+
+*{
+	box-sizing: border-box;
+}
+
+header{
+	margin-bottom: 40px;
+	background-color: yellow;
+
+
+}
+
+.card{
+	border:1px solid #E5E5E5;
+	background-image: cover;
+	margin-bottom: 20px;
+}
+
+img{
+	width: 100%;
+}
+
+main h1,main p{
+padding-left:20px;
+}
